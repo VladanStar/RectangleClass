@@ -1,0 +1,2 @@
+# RectangleClass
+Svojstva klase Rectangle Klasa Rectangle definiše pravougaonik određen gornjim levim temenom, širinom i visinom pravougaonika. Slika 1 prikazuje UML dijagram klase Rectangle le koja definiše pravougaonik.  Klasa Rectangle kreira pravougaonik koji je definisan parametrima x i y (koordinatama gorenjeg levog temena), širinom, visinom, širinom i visinom luka u nejgovim temenima (slika 2.a) , tj. parametrima: x , y , width , height , arcWidth , i arcHeight.
